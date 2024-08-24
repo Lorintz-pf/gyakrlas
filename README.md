@@ -1,4 +1,4 @@
-# gyakrlas
+# sor változatás branch2-ben
 # gyakrlas
 # gyakrlas
 # gyakrlas elirás
