@@ -5,3 +5,4 @@
 # gyakrlas
 # gyakrlas
 # gyakrlas elirás
+# kijavítottam a hibát
