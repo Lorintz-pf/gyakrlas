@@ -1,5 +1,6 @@
+# sor változatás branch2-ben
 <<<<<<< HEAD
-# váltaoztatás branch 1-ben
+
 =======
 # sor változatás branch2-ben
 >>>>>>> branch2
